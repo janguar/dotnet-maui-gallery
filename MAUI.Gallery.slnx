@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="MauiApp.Gallery.Core/MauiApp.Gallery.Core.csproj" />
+  <Project Path="MauiApp.Gallery.Domain/MauiApp.Gallery.Domain.csproj" />
+  <Project Path="MauiApp.Gallery.Services/MauiApp.Gallery.Services.csproj" />
+  <Project Path="MauiApp.Gallery.ViewModels/MauiApp.Gallery.ViewModels.csproj" />
+  <Project Path="MauiApp.Gallery/MauiApp.Gallery.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
